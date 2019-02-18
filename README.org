@@ -1,0 +1,6 @@
+#+title: Redes neuronales con clojure
+#+author: Miguel Piña
+#+date: [2016-12-20 mar 21:20]
+
+El presente repositorio es para resguardar los archivos $\LaTeX$ utilizados para
+la redacción del libro: *Redes neuronales con Clojure*.
