@@ -1,6 +1,19 @@
-#+title: Redes neuronales con clojure
+#+title: Plantilla de tesis
 #+author: Miguel Piña
 #+date: [2016-12-20 mar 21:20]
 
-El presente repositorio es para resguardar los archivos $\LaTeX$ utilizados para
-la redacción del libro: *Redes neuronales con Clojure*.
+El presente repositorio es para proveer una plantilla para tesis. Esta diseñada
+para ser una plantilla para el posgrado en Ciencias e Ingeniería en
+Computación.
+
+Tiene añadido un makefile para ejecutar todas las fases de compilación de un
+documento de LaTeX, incluyendo la fase de construcción de bibliografía. También
+tiene "gestión de versiones" al agregar una copia automática diaría en el
+momento de compilación.
+
+Para ejecutarlo, basta con poner en una terminal de linux, posicionada en el
+directorio donde se encuentra este Readme, el siguiente comando:
+
+#+begin_src sh
+make
+#+end_src
